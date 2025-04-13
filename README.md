@@ -1,9 +1,6 @@
-# 🧠 Customer Clustering App
-
-
----
-
-## 📌 Overview
+# Customer Clustering App
+Link to app: "https://clusteringapplication.streamlit.app/"
+## Overview
 
 This project implements a **customer segmentation model** using unsupervised learning (clustering). It analyzes customer characteristics from mall data to group similar individuals, helping businesses understand their customer base.
 
@@ -11,7 +8,7 @@ An interactive Streamlit app is available for testing the clustering model with 
 
 ---
 
-## 🎯 Goal
+## Goal
 
 - Segment customers using **clustering techniques** (e.g., KMeans)
 - Enable real-time predictions using an app interface
@@ -19,7 +16,7 @@ An interactive Streamlit app is available for testing the clustering model with 
 
 ---
 
-## 🤖 Machine Learning Summary
+## Machine Learning Summary
 
 - **Task Type:** Unsupervised Learning (Clustering)  
 - **Target:** Identify customer segments  
